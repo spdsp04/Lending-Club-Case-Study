@@ -1,4 +1,8 @@
 # Lending-Club-Case-Study
+
+![logo](https://user-images.githubusercontent.com/93203186/144745429-59c16021-9b02-4dc3-8bd6-f30cb45cd732.jpg)
+
+
 ## Problem Statement
 ### Business Understanding
 You work for a __consumer finance company__ which specializes in lending various types of loans to urban customers. When the company receives a loan application, the company has to make a decision for loan approval based on the applicant’s profile. Two __types of risks__ are associated with the bank’s decision:
