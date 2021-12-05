@@ -14,7 +14,7 @@ When a person applies for a loan, there are __two types of decisions__ that coul
   - __Fully paid__: Applicant has fully paid the loan (the principal and the interest rate)
   - __Current__: Applicant is in the process of paying the instalments, i.e. the tenure of the loan is not yet completed. These candidates are not labelled as 'defaulted'.
   - __Charged-off__: Applicant has not paid the instalments in due time for a long period of time, i.e. he/she has __defaulted__ on the loan.
-- __Loan rejected__: The Company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was ~~__rejected__~~, there is no transactional history of those applicants with the company and so this data is not available with the company (and thus in this dataset)
+- __Loan rejected__: The Company had rejected the loan (because the candidate does not meet their requirements etc.). Since the loan was __rejected__, there is ~~no transactional history~~ of those applicants with the company and so this data is not available with the company (and thus in this dataset)
 
 ### Business Objectives
 If one is able to identify these risky loan applicants, then such loans can be reduced thereby cutting down the amount of credit loss. Identification of such applicants using EDA is the aim of this case study.
